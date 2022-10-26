@@ -1,0 +1,50 @@
+
+    body{
+        background-image: url("./marbre\ blanc.webp");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+
+    }
+nav{
+    background-color: white;
+    height: 80px;
+    width: 100%
+}
+label.logo{
+    float: left;
+    font-size: 30px;
+    line-height: 20px;
+    padding: 0 80px;
+    font-weight: bold;
+
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+
+}
+nav ul li{
+display: inline-flex;
+line-height: 80px;
+margin: 0 5px;
+
+}
+nav ul li a{
+    color:black;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+h2{
+    color: blue;
+    font-size: 150px
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+p{
+    line-height: 1.6;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
